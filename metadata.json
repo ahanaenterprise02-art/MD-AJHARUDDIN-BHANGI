@@ -1,0 +1,6 @@
+{
+  "name": "AhaPDF",
+  "description": "AhaPDF by AHANA ENTERPRISE - Native Android PDF converter, document scanner, and complete local PDF toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

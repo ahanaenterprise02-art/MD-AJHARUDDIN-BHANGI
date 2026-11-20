@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AhaPDF" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/brand_white</item>
+    </style>
+</resources>
